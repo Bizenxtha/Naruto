@@ -6,6 +6,6 @@ print("To call this function using its name and assign the value")
 #x = double(3)
 #print(x)
 print("The program ran successfully")
-#----------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------
 print("first modification for 2nd commit")
 print("modification for 5th real commit")
